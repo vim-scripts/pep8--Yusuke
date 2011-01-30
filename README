@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3430
+
+Before use, please make sure below.
+
+- vim is compiled with python.
+- put pep8 somewhere to be visible from this.
+
+URL: http://github.com/jbking/vim-pep8
+
+Thanks to pyflakes.vim (http://www.vim.org/scripts/script.php?script_id=2441). Almost inspired from you.
